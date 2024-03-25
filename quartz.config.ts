@@ -11,11 +11,9 @@ const config: QuartzConfig = {
     pageTitle: "Knowledge KnowWhere",
     enableSPA: true,
     enablePopovers: true,
-    analytics: {
-      provider: "plausible",
-    },
+    analytics: null, //TODO @Neo Add goatCounter
     locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
+    baseUrl: "knowledge-knowwhere", //TODO @Neo Add the github one
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     theme: {

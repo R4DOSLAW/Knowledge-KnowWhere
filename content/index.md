@@ -3,15 +3,12 @@ title: Welcome to Knowledge-KnowWhere
 draft: false
 tags:
   - welcome
+  - workinprogress
 ---
 
 # This site is still under construction
 
-Test link embedding within image
+I still working on this page but soon first article should appear.
 
-[![[Pasted image 20240324212822.png]]](<Gamedev Homepage>)
+[![[Pasted image 20240325085335.png|400]]](<index>)
 
-
-Test image placing
-
-![[Pasted image 20240324212822.png]]
