@@ -29,7 +29,7 @@ const defaultOptions: Options = {
   markdownLinkResolution: "absolute",
   prettyLinks: true,
   openLinksInNewTab: false,
-  lazyLoad: false,
+  lazyLoad: true,
   externalLinkIcon: true,
 }
 

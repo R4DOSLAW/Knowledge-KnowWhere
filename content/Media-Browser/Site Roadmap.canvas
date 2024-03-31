@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"78e12a01fc97893d","type":"group","x":-866,"y":-840,"width":866,"height":380,"label":"Workflow"},
+		{"id":"cf3c564aca3c37b6","type":"group","x":-866,"y":-220,"width":866,"height":300,"label":"Home page"},
+		{"id":"5e51c6263f62668d","type":"text","text":"1. Select topic.","x":-820,"y":-800,"width":360,"height":60},
+		{"id":"604b340c313f62bf","type":"text","text":"2. Create or choose existing repository.","x":-820,"y":-700,"width":360,"height":70},
+		{"id":"c9d9b826124c9fcc","type":"text","text":"3. Learn & code.\n","x":-820,"y":-580,"width":360,"height":70},
+		{"id":"6b0013c31ce4b104","type":"text","text":"\n4. Write description and insights on Knowledge KnowWhere.","x":-400,"y":-720,"width":363,"height":98},
+		{"id":"4e85b449aa9fa8cf","type":"text","text":"Welcome text and a short presentation of the purpose of the website.","x":-840,"y":-200,"width":385,"height":105},
+		{"id":"1cddecc2bb954a40","type":"text","text":"Overview of recent entries and categories.","x":-840,"y":-68,"width":385,"height":88},
+		{"id":"d3ca12d366a80a97","x":-780,"y":-440,"width":720,"height":176,"type":"text","text":">[!warning]\n> # Add more content and fill roadmap with plans"},
+		{"id":"12ed26c65641c150","type":"text","text":"Links to the most important or main sections.","x":-411,"y":-200,"width":385,"height":80},
+		{"id":"8b2cf5cdc391da91","type":"text","text":"Refine settings, logo, add buttons to switch main categories","x":-411,"y":-64,"width":385,"height":80}
+	],
+	"edges":[
+		{"id":"545528f14f17dfcb","fromNode":"5e51c6263f62668d","fromSide":"bottom","toNode":"604b340c313f62bf","toSide":"top"},
+		{"id":"5cf34af2f32d559a","fromNode":"604b340c313f62bf","fromSide":"bottom","toNode":"c9d9b826124c9fcc","toSide":"top"},
+		{"id":"6bb77dbd4e83281b","fromNode":"c9d9b826124c9fcc","fromSide":"right","toNode":"6b0013c31ce4b104","toSide":"bottom"},
+		{"id":"d55e0da55e30c159","fromNode":"6b0013c31ce4b104","fromSide":"top","toNode":"5e51c6263f62668d","toSide":"right"}
+	]
+}
