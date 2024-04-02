@@ -1,0 +1,35 @@
+{
+	"nodes":[
+		{"id":"0a616f538f8fd9f8","type":"group","x":-2200,"y":240,"width":5200,"height":1040,"label":"Done"},
+		{"id":"d37cf4354ae82ecc","type":"group","x":-2200,"y":-880,"width":5200,"height":1040,"label":"To-do"},
+		{"id":"78e12a01fc97893d","type":"group","x":-3120,"y":-880,"width":866,"height":380,"label":"Workflow"},
+		{"id":"cf3c564aca3c37b6","type":"group","x":-2160,"y":-789,"width":866,"height":300,"label":"Home page"},
+		{"id":"c8461703fb791f81","type":"group","x":-1240,"y":-620,"width":385,"height":420,"label":"Basics of programming (C#)"},
+		{"id":"46d7dd911af0f54d","type":"group","x":-1240,"y":-789,"width":700,"height":100,"label":"GIt and other version controll tools"},
+		{"id":"604b340c313f62bf","type":"text","text":"2. Create or choose existing repository.","x":-3074,"y":-740,"width":360,"height":70},
+		{"id":"c9d9b826124c9fcc","type":"text","text":"3. Learn & code.\n","x":-3074,"y":-620,"width":360,"height":70},
+		{"id":"6b0013c31ce4b104","type":"text","text":"\n4. Write description and insights on Knowledge KnowWhere.","x":-2654,"y":-760,"width":363,"height":98},
+		{"id":"5e51c6263f62668d","type":"text","text":"1. Select topic.","x":-3074,"y":-840,"width":360,"height":60},
+		{"id":"4e85b449aa9fa8cf","type":"text","text":"Welcome text and a short presentation of the purpose of the website.","x":-2134,"y":-769,"width":385,"height":105},
+		{"id":"12ed26c65641c150","type":"text","text":"Links to the most important or main sections.","x":-1705,"y":-769,"width":385,"height":80},
+		{"id":"1cddecc2bb954a40","type":"text","text":"Overview of recent entries and categories.","x":-2134,"y":-637,"width":385,"height":88},
+		{"id":"8b2cf5cdc391da91","type":"text","text":"Refine settings, logo, add buttons to switch main categories","x":-1705,"y":-633,"width":385,"height":80},
+		{"id":"386710cbeb60cd68","x":-1220,"y":-769,"width":160,"height":60,"type":"text","text":"Git"},
+		{"id":"54b8290daf601f0c","type":"text","text":"PlasticSCM","x":-1015,"y":-769,"width":160,"height":60},
+		{"id":"9f417b5206ebb69f","type":"text","text":"Perforce and others","x":-820,"y":-769,"width":250,"height":60},
+		{"id":"5df46a91627b2228","type":"text","text":"C# syntax","x":-1220,"y":-593,"width":160,"height":60},
+		{"id":"c7ee05cbae47aeb1","type":"text","text":"Data types","x":-1220,"y":-520,"width":160,"height":60},
+		{"id":"c9144eb93f3d3eb6","type":"text","text":"Fields and properties","x":-1220,"y":-440,"width":340,"height":60},
+		{"id":"ffd60f47e504a259","type":"text","text":"Functions","x":-1220,"y":-360,"width":160,"height":60},
+		{"id":"84183142c3d64b92","type":"text","text":"Loops","x":-1040,"y":-593,"width":160,"height":60},
+		{"id":"cebd778ab423ab77","type":"text","text":"Methods","x":-1040,"y":-360,"width":160,"height":60},
+		{"id":"f06c7a537b4464c5","type":"text","text":"Data collections","x":-1220,"y":-280,"width":185,"height":60},
+		{"id":"d3ca12d366a80a97","type":"text","text":">[!warning]\n> # Add more content and fill roadmap with plans","x":-2134,"y":-396,"width":720,"height":176}
+	],
+	"edges":[
+		{"id":"545528f14f17dfcb","fromNode":"5e51c6263f62668d","fromSide":"bottom","toNode":"604b340c313f62bf","toSide":"top"},
+		{"id":"5cf34af2f32d559a","fromNode":"604b340c313f62bf","fromSide":"bottom","toNode":"c9d9b826124c9fcc","toSide":"top"},
+		{"id":"6bb77dbd4e83281b","fromNode":"c9d9b826124c9fcc","fromSide":"right","toNode":"6b0013c31ce4b104","toSide":"bottom"},
+		{"id":"d55e0da55e30c159","fromNode":"6b0013c31ce4b104","fromSide":"top","toNode":"5e51c6263f62668d","toSide":"right"}
+	]
+}
