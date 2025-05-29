@@ -32,7 +32,7 @@ tags:
 - Lighting techniques
 - Shadows and reflections
 
-## 6. Unity Animations
+## 6. [[Unity Animations]]
 - Animator and animation controllers
 - Keyframe animations
 - Animating objects and characters

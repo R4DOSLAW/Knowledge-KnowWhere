@@ -1,0 +1,193 @@
+{
+  "main": {
+    "id": "41fe6703d65cf1ed",
+    "type": "split",
+    "children": [
+      {
+        "id": "077b096fc6b45821",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fa4e2a00d29842eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unity Animations/Stage 2  Rigging And Skinning Custom Meshes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Stage 2  Rigging And Skinning Custom Meshes"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a00645c389ac8c34",
+    "type": "split",
+    "children": [
+      {
+        "id": "ddc61ea55b1df7ca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4b2a97cdc2198cb2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "910919d267357ed3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "3c3e515b6703ae98",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "56a54888ac8cd99b",
+    "type": "split",
+    "children": [
+      {
+        "id": "90a14bfea66586d9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a973c284740f5bd2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "9c8a894ff6c9cb7d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "ae2253764e0dfabd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "8bd131b9e6e8e62a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "webpage-html-export:Export Vault to HTML": false
+    }
+  },
+  "active": "fa4e2a00d29842eb",
+  "lastOpenFiles": [
+    "lib/search-index.json",
+    "lib/metadata.json",
+    "lib/styles/obsidian.css",
+    "lib/styles/main-styles.css",
+    "lib/styles/global-variable-styles.css",
+    "lib/styles",
+    "lib/scripts/graph-data.js",
+    "lib/scripts/minisearch.js",
+    "lib/scripts/pixi.js",
+    "lib/scripts/tinycolor.js",
+    "lib/scripts/graph-render-worker.js",
+    "lib/media/favicon.png",
+    "lib/media/6155340132a851f6089e.svg",
+    "Site Roadmap.canvas",
+    "Unity Animations/Stage 7  Final Polish And Optimization.md",
+    "Unity Animations/Stage 6  Animals And Non Humanoid Entities.md",
+    "Unity Animations/Stage 5  Vehicles And Mechanical Animation.md",
+    "Unity Animations/Stage 4  Advanced Weapon And Item Animation.md",
+    "Unity Animations/Stage 3  Driving Animations with Code.md",
+    "Unity Animations/Stage 1  Animation Fundamentals in Unity.md",
+    "Unity Animations/Stage 2  Rigging And Skinning Custom Meshes.md"
+  ]
+}

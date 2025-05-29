@@ -1,0 +1,214 @@
+{
+  "main": {
+    "id": "2734379cbb767525",
+    "type": "split",
+    "children": [
+      {
+        "id": "cace2aa3f0a75b3a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f6cd5121a3da03df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game Development/Unity Animations/1. Animation Fundamentals in Unity/🎓 Animation Fundamentals in Unity.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "🎓 Animation Fundamentals in Unity"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e5f958058941838e",
+    "type": "split",
+    "children": [
+      {
+        "id": "d4ac19250449d667",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "17d75054076e589e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "9257d1237d974403",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "67b5e585bade7d9f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "47d8ea435db0ac74",
+    "type": "split",
+    "children": [
+      {
+        "id": "a757ea180aa5ea13",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a93d2a20e85f5031",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Game vs Business Programming - Key Differences.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Game vs Business Programming - Key Differences"
+            }
+          },
+          {
+            "id": "2932bdcb88daf231",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Game vs Business Programming - Key Differences.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Game vs Business Programming - Key Differences"
+            }
+          },
+          {
+            "id": "30e7b05817e43535",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "3f1c1557082e7436",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Game vs Business Programming - Key Differences.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Game vs Business Programming - Key Differences"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "f6cd5121a3da03df",
+  "lastOpenFiles": [
+    "Media Browser/lib/search-index.json",
+    "Media Browser/lib/metadata.json",
+    "Media Browser/lib/styles/obsidian.css",
+    "Media Browser/lib/styles/main-styles.css",
+    "Media Browser/lib/styles/global-variable-styles.css",
+    "Media Browser/lib/styles",
+    "Media Browser/lib/scripts/graph-data.js",
+    "Media Browser/lib/scripts/minisearch.js",
+    "Media Browser/lib/scripts/pixi.js",
+    "Media Browser/lib/scripts/tinycolor.js",
+    "Media Browser/lib/scripts/graph-render-worker.js",
+    "Media Browser/lib/media/favicon.png",
+    "Media Browser/lib/media/6155340132a851f6089e.svg",
+    "Media Browser/Unity Animations/Stage 2  Rigging And Skinning Custom Meshes.md",
+    "Media Browser/Unity Animations/Stage 1  Animation Fundamentals in Unity.md",
+    "Media Browser/Unity Animations/Stage 2 - Rigging And Skinning Custom Meshes.md",
+    "Media Browser/Unity Animations/Stage 3  Driving Animations with Code.md",
+    "Media Browser/Unity Animations/Stage 4  Advanced Weapon And Item Animation.md",
+    "Media Browser/Unity Animations/Stage 5  Vehicles And Mechanical Animation.md",
+    "Media Browser/Unity Animations/Stage 6  Animals And Non Humanoid Entities.md",
+    "Media Browser/Unity Animations/Stage 7  Final Polish And Optimization.md",
+    "Game Development/Unity Animations/1. Animation Fundamentals in Unity/Blend Trees.md",
+    "Game Development/Unity Animations/1. Animation Fundamentals in Unity/🎓 Animation Fundamentals in Unity.md",
+    "Game Development/Unity Animations/1. Animation Fundamentals in Unity/Mixamo.md",
+    "Game Development/Unity Animations/1. Animation Fundamentals in Unity/Activation track.md",
+    "Game Development/Unity Animations/1. Animation Fundamentals in Unity/Cinemachine.md",
+    "Game Development/Unity Animations/1. Animation Fundamentals in Unity/Timeline.md",
+    "Game Development/Unity Animations/1. Animation Fundamentals in Unity/Animation.md",
+    "Game Development/Unity Animations/1. Animation Fundamentals in Unity/GameObjects.md",
+    "Game Development/Unity Animations/1. Animation Fundamentals in Unity/Animator.md",
+    "Game Development/Unity Animations/1. Animation Fundamentals in Unity/Animator Controller.md",
+    "Game Development/Unity Animations/1. Animation Fundamentals in Unity/Animation Clip.md",
+    "Game Development/Unity Animations/1. Animation Fundamentals in Unity/Keyframes.md",
+    "Game Development/Unity Animations/1. Animation Fundamentals in Unity/Component-Based Animation System.md",
+    "Game Development/Unity Animations/1. Animation Fundamentals in Unity/Procedural Animation.md",
+    "Game Development/Unity Animations/1. Animation Fundamentals in Unity/Skeletal Animation (Rigged).md",
+    "index.md",
+    "Game Development/Unity Animations/Unity Animations.md",
+    "Untitled.canvas",
+    "Media Browser/Site Roadmap.canvas"
+  ]
+}
