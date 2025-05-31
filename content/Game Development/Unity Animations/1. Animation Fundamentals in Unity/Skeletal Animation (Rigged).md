@@ -7,15 +7,16 @@ Skeletal Animation (also known as **rigged animation**) is a technique used in *
 
 When the bones move, the mesh deforms accordingly, allowing for realistic animation like walking, jumping, waving, etc.
 
+![[Pasted image 20250531150917.png]]
 ### 🦴 Key Components
 
-|Component|Description|
-|---|---|
-|**Bone/Joint**|A pivot point that controls parts of the mesh.|
-|**Rig**|A skeleton composed of multiple bones.|
-|**Skinning**|Binding the mesh to the bones, defining how it deforms with movement.|
-|**Weight Painting**|Specifies how much influence each bone has over the vertices of the mesh.|
-|**Animator / Animation Controller**|Unity component that manages transitions and playback of animations.|
+| Component                                                                   | Description                                                               |
+| --------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
+| **Bone/Joint**<br>![[Pasted image 20250531153934.png]]                      | A pivot point that controls parts of the mesh.                            |
+| **Rig**<br>![[Pasted image 20250531152932.png]]                             | A skeleton composed of multiple bones.                                    |
+| **Skinning*<br>![[Pasted image 20250531154624.png]]*                        | Binding the mesh to the bones, defining how it deforms with movement.     |
+| **Weight Painting**<br>![[Pasted image 20250531151110.png]]                 | Specifies how much influence each bone has over the vertices of the mesh. |
+| **Animator / Animation Controller**<br>![[Pasted image 20250531154738.png]] | Unity component that manages transitions and playback of animations.      |
 
 ---
 
