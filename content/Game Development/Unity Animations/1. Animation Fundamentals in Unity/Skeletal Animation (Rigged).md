@@ -14,7 +14,7 @@ When the bones move, the mesh deforms accordingly, allowing for realistic animat
 | --------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
 | **Bone/Joint**<br>![[Pasted image 20250531153934.png]]                      | A pivot point that controls parts of the mesh.                            |
 | **Rig**<br>![[Pasted image 20250531152932.png]]                             | A skeleton composed of multiple bones.                                    |
-| **Skinning*<br>![[Pasted image 20250531154624.png]]*                        | Binding the mesh to the bones, defining how it deforms with movement.     |
+| **Skinning**<br>![[Pasted image 20250531154624.png]]*                       | Binding the mesh to the bones, defining how it deforms with movement.     |
 | **Weight Painting**<br>![[Pasted image 20250531151110.png]]                 | Specifies how much influence each bone has over the vertices of the mesh. |
 | **Animator / Animation Controller**<br>![[Pasted image 20250531154738.png]] | Unity component that manages transitions and playback of animations.      |
 
@@ -33,7 +33,7 @@ When the bones move, the mesh deforms accordingly, allowing for realistic animat
 
 ### 🔧 Unity Integration
 
-```
+```plaintext
 Assets/
 ├── Models/
 │   └── Character.fbx (includes mesh, bones, and animations)
