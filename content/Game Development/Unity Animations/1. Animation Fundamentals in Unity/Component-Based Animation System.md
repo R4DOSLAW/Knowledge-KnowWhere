@@ -2,6 +2,8 @@
 
 A **Component-Based Animation System** is an animation architecture where **animations are broken into reusable, independent components** (scripts or modules) that can be **attached to GameObjects**.
 
+![[Pasted image 20250531194950.png]]
+
 Instead of creating one big animation script or timeline, behavior is split into **small, focused components** — each responsible for a specific type of animation (e.g., foot IK, look-at behavior, breathing, blinking).
 
 This follows Unity’s **Entity-Component-System (ECS)** philosophy: _composition over inheritance_.

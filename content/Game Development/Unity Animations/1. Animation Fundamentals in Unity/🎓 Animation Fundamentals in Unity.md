@@ -31,6 +31,39 @@ Unity uses a **[[Component-Based Animation System]]**:
     
 - **[[Animator]]**: A component attached to [[GameObjects]] that plays the controller.
     
+#### 🔁 Full Animation Flow
+```plaintext
+GameObject
+  └── Animator (Component)
+        └── Animator Controller (.controller)
+              ├── States (Animation Clips)
+              ├── Transitions
+              └── Parameters
+```
+
+#### C# Scripting Example:
+```csharp
+Animator animator = GetComponent<Animator>();
+
+if (Input.GetKeyDown(KeyCode.Space))
+{
+    animator.SetTrigger("Jump");
+}
+```
+
+---
+
+## 💡 Tips
+
+- Always test animation transitions in Play Mode.
+    
+- Use **Animator Parameters** for dynamic control.
+    
+- Preview `.anim` clips using the **Animation window**.
+    
+- Combine with **Root Motion** for realistic movement.
+    
+- Consider using **Animation Rigging** for procedural blend-ins.
 
 #### 🛠 Tutorial Steps in Unity:
 
